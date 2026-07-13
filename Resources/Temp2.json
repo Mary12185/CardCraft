@@ -1,0 +1,35 @@
+{
+  "templateName": "Medical Professional ID Card",
+  "version": "1.0",
+  "description": "Editable front and back fields for doctor template.",
+  "cardData": {
+    "front": {
+      "name": "TAKEHIRO KANEGI",
+      "occupation": "ORTHOPEDIST",
+      "idNumber": "DOC-00921",
+      "barcodeValue": "9876543210",
+      "photo": {
+        "url": "/images/template2_front_photo.png",
+        "altText": "Doctor Photo"
+      }
+    },
+    "back": {
+      "termsTitle": "TERMS & CONDITION",
+      "termsDescription": "Subject to relevant hospital policies and identification procedures.",
+      "points": [
+        "This card must be carried at all times.",
+        "Report lost card immediately.",
+        "Unauthorized use is strictly prohibited."
+      ]
+    }
+  }
+}
+
+
+
+
+
+
+
+
+

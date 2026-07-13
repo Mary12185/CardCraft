@@ -1,0 +1,26 @@
+{
+  "templateName": "Blue Professional ID Card",
+  "version": "1.0",
+  "description": "Editable fields for front and back of Template 1.",
+  "cardData": {
+    "front": {
+      "name": "John Doe",
+      "mode": "FULL TIME",
+      "cnic": "42101-1234567-8",
+      "employeeId": "EMP-90821",
+      "issueDate": "01 JAN 2025",
+      "expiryDate": "01 JAN 2030",
+      "department": "HUMAN RESOURCE",
+      "photo": {
+        "url": "/images/template1_front_photo.png",
+        "altText": "Employee Photo"
+      }
+    },
+    "back": {
+      "bloodGroup": "B+",
+      "contact": "+92 333 1234567",
+      "address": "Street 21, DHA Phase 5, Karachi",
+      "emergencyContact": "+92 322 9876543"
+    }
+  }
+}

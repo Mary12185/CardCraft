@@ -1,0 +1,24 @@
+{
+  "templateName": "Urban Security Personnel ID Card",
+  "version": "1.0",
+  "description": "Editable two-sided security personnel ID card.",
+  "cardData": {
+    "front": {
+      "department": "US DEPARTMENT OF URBAN SECURITY",
+      "name": "Jordan Carter",
+      "title": "Infrastructure Safety Officer",
+      "idNumber": "USDUS-741209",
+      "barcodeValue": "1234567890",
+      "photo": {
+        "url": "/images/template3_front_photo.png",
+        "altText": "Employee Photo"
+      }
+    },
+    "back": {
+      "securityNotice": "Authorized personnel only.",
+      "reportIfFoundContact": "(800) 555-3090",
+      "officeAddress": "89 Capitol Blvd, Washington, DC",
+      "website": "usgovrecord.com"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+name: PROJECT
+description: My first Flutter app.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/template1Front.png
+    - assets/template1Back.png
+    - assets/template2Front.png
+    - assets/template2Back.png
+    - assets/template3Front.png
+    - assets/template3Back.png
+    - assets/id.jpg
