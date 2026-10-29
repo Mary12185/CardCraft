@@ -11,8 +11,3 @@ A Java application for generating ID cards with JSON backend.
 - Java
 - JSON
 - Maven
-
-## How to Run
-1. Clone the repository
-2. Open in IntelliJ IDEA
-3. Run IDMateApp.java
